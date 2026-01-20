@@ -1,3 +1,0 @@
-&i2c1 {
-    status = "okay";
-};
